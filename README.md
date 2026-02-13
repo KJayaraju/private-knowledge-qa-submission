@@ -7,7 +7,7 @@ A lightweight web application that allows users to upload private documents and 
 ## 🚀 Live Demo
 
 - **Live Link:** https://private-knowledge-qa-frontend.vercel.app  
-- **GitHub Respository:** https://private-knowledge-qa-backend.onrender.com 
+- **GitHub Respository:** https://github.com/KJayaraju/private-knowledge-qa-submission.git
 
 ---
 
